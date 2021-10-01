@@ -1,2 +1,2 @@
-# DOM-Manipulation
+# Personal Quick List
 DOM Events Excercise
